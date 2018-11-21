@@ -1,0 +1,15 @@
+NAME : gdb1
+VERTICES : 5
+DEPOT : 1
+REQUIRED EDGES : 5
+NON-REQUIRED EDGES : 0
+VEHICLES : 5
+CAPACITY : 5
+TOTAL COST OF REQUIRED EDGES : 100
+NODES       COST         DEMAND
+1   2   2       1
+1   4   1       1
+2   3   1       1
+4   3   3       1
+4   5   10       1
+END
